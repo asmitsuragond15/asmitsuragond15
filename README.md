@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asmit Suragond</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on [PMP Patralok](https://patralok.com/)
+- 🔭 I had worked in [PMP Patralok](https://patralok.com/)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring** **Servlet**
 
 - 💬 Ask me about **PHP and Laravel**
 
